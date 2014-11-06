@@ -6,7 +6,7 @@ filetype plugin indent on
 set background=dark
 if has('gui_running')
     set background=light
-    colorscheme solarized
+    colorscheme Tomorrow
     set guifont=Ubuntu\ Mono\ 13
 endif
 
